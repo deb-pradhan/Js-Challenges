@@ -1,4 +1,2 @@
-# Js-Challenges
-Scrimba Js challenges
-
-UPDATE check
+# Learn some stuff
+Right now using this repo to learn Next.js
